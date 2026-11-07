@@ -44,7 +44,7 @@ sudo apt install nodejs (in Linux)
 winget install OpenJS.NodeJS (in Windows)
 ```
 
-We provide a detailed description of the vulnerabilities, their sources, and the methodology used to validate the attacks on https://eprint.iacr.org/2026/1994. *For safety, we do not provide the source code of the local execution programs of our PoC.* But we keep the steps which requires local execution in the following experimental steps for clarity.
+We provide a detailed description of the vulnerabilities, their sources, and the methodology used to validate the attacks on https://eprint.iacr.org/2026/1994. *For safety, we do not provide the source code of the local execution programs of our PoC.* But we keep the steps which requires local execution in the following experimental steps for completeness.
 
 
 ### Install Burp Suite and configuration
