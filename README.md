@@ -11,6 +11,9 @@ Paper title: Data-strophy: When Your Integrity Goes Wild, So Does Your Data!
 We also provide demonstration videos for our PoC of the above three attacks on https://drive.google.com/drive/folders/1YswNVoH97CdZ71Dw8AWAaJ6n5k_fsrJY?usp=share\_link.
 
 
+We provide a detailed description of the vulnerabilities, their sources, and the methodology used to validate the attacks on https://eprint.iacr.org/2026/1994. *For safety, we do not provide the source code of the local execution programs of our PoC.* But we keep the steps which requires local execution in the following experimental steps for completeness.
+
+
 ## Setup instruction
 
 ### Environment and dependencies:
@@ -43,9 +46,6 @@ brew install node (in MacOS)
 sudo apt install nodejs (in Linux)
 winget install OpenJS.NodeJS (in Windows)
 ```
-
-We provide a detailed description of the vulnerabilities, their sources, and the methodology used to validate the attacks on https://eprint.iacr.org/2026/1994. *For safety, we do not provide the source code of the local execution programs of our PoC.* But we keep the steps which requires local execution in the following experimental steps for completeness.
-
 
 ### Install Burp Suite and configuration
 
